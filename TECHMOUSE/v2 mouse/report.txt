@@ -1,0 +1,11 @@
+Info: Output directory '/Users/ameednazhurudeen/Downloads/SONIC MOUSE V3' created.
+Plotted to '/Users/ameednazhurudeen/Downloads/SONIC MOUSE V3/v2 mouse-F_Cu.gbr'.
+Plotted to '/Users/ameednazhurudeen/Downloads/SONIC MOUSE V3/v2 mouse-B_Cu.gbr'.
+Plotted to '/Users/ameednazhurudeen/Downloads/SONIC MOUSE V3/v2 mouse-F_Silkscreen.gbr'.
+Plotted to '/Users/ameednazhurudeen/Downloads/SONIC MOUSE V3/v2 mouse-B_Silkscreen.gbr'.
+Plotted to '/Users/ameednazhurudeen/Downloads/SONIC MOUSE V3/v2 mouse-F_Mask.gbr'.
+Plotted to '/Users/ameednazhurudeen/Downloads/SONIC MOUSE V3/v2 mouse-B_Mask.gbr'.
+Plotted to '/Users/ameednazhurudeen/Downloads/SONIC MOUSE V3/v2 mouse-Edge_Cuts.gbr'.
+Created Gerber job file '/Users/ameednazhurudeen/Downloads/SONIC MOUSE V3/v2 mouse-job.gbrjob'.
+Info: Done.
+Info: Done.
